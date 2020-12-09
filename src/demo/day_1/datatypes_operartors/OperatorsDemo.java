@@ -1,6 +1,4 @@
-package demo.datatypes_operartors;
-
-import javax.crypto.spec.PSource;
+package demo.day_1.datatypes_operartors;
 
 /**
  * Created by ryandesmond - https://codingnomads.co

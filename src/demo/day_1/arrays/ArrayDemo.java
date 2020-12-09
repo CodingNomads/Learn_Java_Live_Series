@@ -1,4 +1,4 @@
-package demo.arrays;
+package demo.day_1.arrays;
 
 /**
  * Created by ryandesmond - https://codingnomads.co
