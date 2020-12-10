@@ -1,4 +1,4 @@
-package demo.day_1.conditionals.loops;
+package demo.day_1.fundamentals.conditionals.loops;
 
 /**
  * Created by ryandesmond - https://codingnomads.co

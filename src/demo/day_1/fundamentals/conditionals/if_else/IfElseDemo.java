@@ -1,4 +1,4 @@
-package demo.day_1.conditionals.if_else;
+package demo.day_1.fundamentals.conditionals.if_else;
 
 /**
  * Created by ryandesmond - https://codingnomads.co

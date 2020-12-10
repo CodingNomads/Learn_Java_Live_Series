@@ -1,4 +1,4 @@
-package demo.day_1.datatypes_operartors;
+package demo.day_1.fundamentals.datatypes_operartors;
 
 /**
  * Created by ryandesmond - https://codingnomads.co
